@@ -1,9 +1,9 @@
 {
-  "name": "shamim/ultimate-sms-api",
+  "name": "oradasoft/gaintsms",
   "description": "Ultimate SMS API is build for Ultimate SMS - Bulk SMS Application For Marketing",
   "type": "library",
   "license": "MIT",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "minimum-stability": "stable",
   "authors": [
     {
